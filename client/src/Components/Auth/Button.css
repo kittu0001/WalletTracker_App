@@ -1,0 +1,10 @@
+.underline-button {
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .underline-button:hover {
+    text-decoration: underline;
+    background-color: transparent;
+  }
+  

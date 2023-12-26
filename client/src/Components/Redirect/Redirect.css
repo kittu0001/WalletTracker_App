@@ -1,0 +1,38 @@
+.redirect-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.redirect-message {
+    color: Black;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.redirect-description {
+    color: #555555;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.redirect-button {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 'transform 0.3s ease';
+}
+
+.redirect-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.1);
+    box-shadow: 0 0 10px 5px rgba(0, 0, 255, 0.5);
+}
+
+
+
